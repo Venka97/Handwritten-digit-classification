@@ -1,2 +1,5 @@
-# Handwritten-digit-classification
-This project uses a neural network to classify hand written digits
+# Content : Deep Learning
+
+## Project : Handwritten digits classfication
+
+This project uses a multi layer perceptron to classify hand written digits. It uses keras with tensorflow as backend.
